@@ -100,7 +100,7 @@
 [示例2：朝代为宋代的前10条古文](https://www.caoxingyu.club/guwen/selectbydynasty?page=1&dynasty=宋代)
 
 - ##### 根据关键字查询古文（可输入标题、作者、原文中的内容）
-需要一个参数：page表示第几页，没有默认返回第一页；keyword要查询的关键字，可以是作者、标题、原文中的内容。
+需要两个参数：page表示第几页，没有默认返回第一页；keyword要查询的关键字，可以是作者、标题、原文中的内容。
 
      https://www.caoxingyu.club/guwen/selectbykeyword?page=1&keyword=李，会返回作者中包含“李”、标题中包含“李”、原文中包含“李”的前10条古文
 
