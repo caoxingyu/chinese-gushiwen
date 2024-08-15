@@ -157,7 +157,7 @@
 
 [方法2：查询"山有木兮木有枝，心悦君兮君不知。"所在原文](https://www.caoxingyu.club/guwen/selectbykeyword?page=1&keyword=山有木兮木有枝，心悦君兮君不知。)
 
-- ### “蜉蝣诗词古文”小程序
+- ### ~~“蜉蝣诗词古文”小程序~~（已下架，无法访问）
     “诗词歌赋全集”小程序已经上线，感兴趣的同学可立即扫码体验。      
    
   ![蜉蝣诗词古文](https://guwen-1252396323.cos.ap-chengdu.myqcloud.com/qrcode.jpg "蜉蝣诗词古文")   
